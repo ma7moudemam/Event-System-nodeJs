@@ -1,0 +1,4 @@
+1-create server
+2-open port number
+3-create MW Log , Not Found , Error
+4-start Routing
